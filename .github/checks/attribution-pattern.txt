@@ -1,0 +1,4 @@
+co-authored-by:.*(claude|anthropic)
+generated (with|by).*(claude|anthropic)
+[^[:space:]]+@anthropic\.com
+claude\.ai/(code|share|chat)
